@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1394467487610.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "224DB663",
+    "lastKnownWriteTime" : 80,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "releases",
+        "contentUrl" : "content?title=releases&file=c1f592e89d194e9e84a2e1c32396b757.htm",
+        "displayedObservations" : 27,
+        "displayedVariables" : 3,
+        "totalObservations" : 27,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

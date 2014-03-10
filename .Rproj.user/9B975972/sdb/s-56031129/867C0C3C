@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1394492532049.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "867C0C3C",
+    "lastKnownWriteTime" : 80,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "agregPerc",
+        "contentUrl" : "content?title=agregPerc&file=518456d684c44138be3790b1782ea981.htm",
+        "displayedObservations" : 17,
+        "displayedVariables" : 2,
+        "totalObservations" : 17,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

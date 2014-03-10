@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1394462489098.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F6E1DD31",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "aggr",
+        "contentUrl" : "content?title=aggr&file=b1cc13c286254072bae78357caebb305.htm",
+        "displayedObservations" : 15,
+        "displayedVariables" : 2,
+        "totalObservations" : 15,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

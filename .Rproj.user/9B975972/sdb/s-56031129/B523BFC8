@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1394492357123.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B523BFC8",
+    "lastKnownWriteTime" : 0,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "perc",
+        "contentUrl" : "content?title=perc&file=4f2b840e81af4db7a5d85b873e52633a.htm",
+        "displayedObservations" : 87,
+        "displayedVariables" : 2,
+        "totalObservations" : 87,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

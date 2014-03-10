@@ -1,0 +1,17 @@
+{
+    "contents" : "year.versions <- read.table(\"../application-pdf-sb\", header=TRUE, sep=\"\\t\", stringsAsFactors=FALSE)\nreleases <- read.table(\"../release_years.txt\", header=TRUE, sep=\"\\t\")\n\n#exclude NA\nt <- year.versions[!is.na(year.versions$VERSION),]\n#t <- year.versions[!is.na(year.versions$VERSION) & year.versions$YEAR > 2004,]\n\n#aggregate values by years \naggr <- aggregate(COUNT~YEAR, FUN=sum, data=t)\n\nperc <- data.frame(Y=character(), P=character(), stringsAsFactors=FALSE)\nfor (i in 1:nrow(t)) {\n  row <- t[i,]\n  year <- row$YEAR\n  version <- row$VERSION\n  count <- row$COUNT\n  releaseYear <- releases[releases$MEDIATYPE==\"application/pdf\" & releases$VERSION==version,]$YEAR\n  if (length(releaseYear)>0) {\n    total <- aggr[aggr$YEAR==year,]$COUNT\n    percentage <- count/total\n    diff = year - releaseYear\n    if ( diff > 0 ) {\n      perc <- rbind(perc, data.frame(Y=diff, P=percentage))\n    }\n  }\n}\n\nagregPerc <- aggregate(P~Y, FUN=mean, data=perc)",
+    "created" : 1394458154321.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2851177697",
+    "id" : "5EA97A50",
+    "lastKnownWriteTime" : 1394493025,
+    "path" : "~/Projects/SCAPE/FormatAnalysis/formatevolution/process.R",
+    "project_path" : "process.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

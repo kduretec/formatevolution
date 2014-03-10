@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1394469609504.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "82A0F119",
+    "lastKnownWriteTime" : 2,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "releaseYear",
+        "contentUrl" : "content?title=releaseYear&file=c2cb05a078cb42e6b835ec7038629a30.htm",
+        "displayedObservations" : 0,
+        "displayedVariables" : 4,
+        "totalObservations" : 0,
+        "variables" : 3
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
