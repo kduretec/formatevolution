@@ -1,0 +1,11 @@
+MIME1	VERSION1	MIME2	VERSION2
+image/x-ms-bmp	1.0	image/bmp	1.0
+image/x-ms-bmp	2.0	image/bmp	2.0
+image/x-ms-bmp	3.0	image/bmp	3.0
+image/x-ms-bmp	3.0 NT	image/bmp	3.0 NT
+image/x-ms-bmp	4.0	image/bmp	4.0
+image/x-ms-bmp	5.0	image/bmp	5.0
+image/gif	1987a	image/gif	87a
+image/gif	1989a	image/gif	89a
+application/xhtml+xml	2.0	text/html	2.0
+application/xhtml+xml	3.2	text/html	3.2

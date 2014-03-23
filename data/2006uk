@@ -1,0 +1,313 @@
+MIME	VERSION	COUNT
+application/dita+xml	4.01	831
+application/dita+xml	4.0	653
+application/dita+xml	1.0	11
+application/dita+xml	NA	992
+application/vnd.ms-excel	3	153
+application/vnd.ms-excel	2	46
+application/vnd.ms-excel	4W	12
+application/vnd.ms-excel	4S	698
+application/vnd.ms-excel	NA	684
+application/x-httpd-jsp	4.01	13546
+application/x-httpd-jsp	3.2	22
+application/x-httpd-jsp	4.0	1336
+application/x-httpd-jsp	NA	54397
+chemical/x-cdx	NA	7
+application/x-endnote-style	NA	53
+image/tiff	NA	8003
+image/tiff	2.1	16
+image/tiff	2.2	102
+audio/x-aiff	NA	1171
+application/x-tex	NA	1868
+video/x-mng	NA	2
+application/vnd.ms-powerpoint	95	884
+application/vnd.ms-powerpoint	4.0	345
+application/vnd.ms-powerpoint	NA	1859
+application/vnd.ms-powerpoint	97-2002	92863
+application/fits	NA	99
+application/x-iso9660-image	NA	72
+application/atom+xml	1.0	20324
+application/atom+xml	NA	39
+application/x-gtar	NA	583
+application/x-archive	NA	68
+image/gif	4.01	80
+image/gif	1987a	1106607
+image/gif	4.0	82
+image/gif	1989a	26157385
+image/gif	NA	368081
+image/gif	2.0	22
+application/netcdf	NA	23
+audio/mpeg	NA	242459
+audio/mpeg	2.0	3
+text/x-diff	NA	232
+message/rfc822	4.0	88
+message/rfc822	NA	4758
+application/x-hdf	NA	1
+application/x-compress	NA	4319
+application/vnd.lotus-wordpro	"97/Millennium"	126
+application/vnd.lotus-wordpro	NA	15
+application/vnd.openxmlformats-officedocument	NA	7
+application/vnd.sun.xml.draw	NA	22
+application/x-dvi	NA	9026
+application/octet-stream	"n/a"	31
+application/octet-stream	NA	1583731
+text/troff	NA	898
+audio/amr	NA	109
+message/news	NA	561
+application/xml	4.01	17431
+application/xml	3.2	99
+application/xml	4.0	4076
+application/xml	1.0	175644
+application/xml	NA	135113
+application/xml	2.0	15
+application/x-123	3.0	20
+application/x-123	1.0	50
+application/x-123	NA	925
+application/x-123	2.0	3096
+application/x-hwp	NA	1
+application/rss+xml	4.0	4
+application/rss+xml	1.0	305405
+application/rss+xml	NA	10129
+audio/prs.sid	2	3
+audio/prs.sid	1	1
+image/jp2	NA	6
+audio/xm	NA	79
+application/rtf	1.8	7965
+application/rtf	1.7	15393
+application/rtf	1.9	5
+application/rtf	NA	57459
+audio/x-wav	NA	42455
+application/x-elc	NA	95
+application/vnd.sun.xml.writer	NA	118
+application/xslt+xml	1.0	3026
+application/xslt+xml	NA	221
+video/x-ms-wmv	1.5	2
+video/x-ms-wmv	NA	60183
+image/vnd.dwg	R9	32
+image/vnd.dwg	2004-2005	163
+image/vnd.dwg	R13	72
+image/vnd.dwg	2000-2002	1109
+image/vnd.dwg	R14	878
+image/vnd.dwg	"R11/12"	428
+image/vnd.dwg	R10	10
+application/x-tika-java-web-archive	NA	48
+application/x-font-adobe-metric	NA	17
+video/3gpp2	NA	4
+audio/x-pn-realaudio	1.0	48
+audio/x-pn-realaudio	2.0	4118
+application/x-endnote-connect	NA	613
+application/msword	97-2003	577731
+application/msword	"6.0/95"	13161
+application/msword	5.0	2
+application/msword	NA	2458
+application/msword	2.0	1842
+video/x-msvideo	NA	10523
+video/x-flv	1	189
+application/x-emf	3.0	21
+application/x-emf	1.0	3
+application/x-emf	NA	53
+application/x-emf	2.0	1
+audio/x-mod	NA	107
+image/x-sgi-bw	NA	25
+application/x-bzip	NA	3288
+application/vnd.sun.xml.base	NA	1
+application/x-shockwave-flash	3	7872
+application/x-shockwave-flash	2	1085
+application/x-shockwave-flash	1	248
+application/x-shockwave-flash	7	4469
+application/x-shockwave-flash	6	27052
+application/x-shockwave-flash	5	116184
+application/x-shockwave-flash	4	151855
+application/x-shockwave-flash	1.0	40
+application/x-shockwave-flash	NA	251461
+application/x-font-printer-metric	NA	6
+image/svg+xml	1.0	284
+image/svg+xml	NA	51
+audio/ogg	NA	33
+application/java-vm	NA	5697
+video/3gpp	NA	2668
+image/x-ms-bmp	3.0	87054
+image/x-ms-bmp	5.0	2
+image/x-ms-bmp	"3.0 NT"	1932
+image/x-ms-bmp	NA	1458
+image/x-ms-bmp	2.0	6
+application/vnd.tcpdump.pcap	NA	5
+application/x-msaccess	NA	741
+text/plain	97	3020
+text/plain	3.2	52397
+text/plain	2.6	22
+text/plain	4.0	744013
+text/plain	R13	273
+text/plain	X11	2593
+text/plain	R14	116
+text/plain	2.0	5243
+text/plain	IV	2
+text/plain	"R11/12"	395
+text/plain	R10	71
+text/plain	4.01	1163171
+text/plain	R9	1
+text/plain	"n/a"	93
+text/plain	Generic	221
+text/plain	1.0	121388
+text/plain	2000-2002	144
+text/plain	NA	13188547
+video/quicktime	NA	29159
+audio/mp4	NA	653
+audio/x-flac	NA	74
+application/x-font-type1	NA	25
+image/bmp	NA	3
+image/bmp	2.0	40
+image/x-portable-graymap	NA	7
+application/pdf	1.6	99163
+application/pdf	1.5	459491
+application/pdf	1b	116
+application/pdf	1.0	4598
+application/pdf	NA	299079
+application/pdf	1.4	1801882
+application/pdf	1.3	1692957
+application/pdf	1.2	1055864
+application/pdf	1.1	66920
+video/x-m4v	NA	260
+application/x-msmetafile	NA	7195
+application/x-kspread	NA	2
+application/x-tar	NA	1779
+application/x-bplist	NA	8
+application/x-sc	NA	11
+image/vnd.djvu	NA	610
+application/x-font-ttf	"n/a"	894
+application/x-font-ttf	NA	3
+application/vnd.sun.xml.calc	NA	38
+application/xhtml+xml	"Gallery version 2.0.1"	2
+application/xhtml+xml	4.01	413050
+application/xhtml+xml	3.2	890
+application/xhtml+xml	"OpenACS version 5.2.0b5"	2
+application/xhtml+xml	"WordPress <?php bloginfo('version'), ?>"	1
+application/xhtml+xml	4.0	161546
+application/xhtml+xml	1.0	39308571
+application/xhtml+xml	NA	4626560
+application/xhtml+xml	1.3	2
+application/xhtml+xml	2.0	96
+application/xhtml+xml	1.1	907509
+application/x-cdf	NA	56
+application/vnd.sun.xml.impress	NA	238
+image/x-portable-bitmap	NA	6
+application/x-sh	4.01	141
+application/x-sh	3.2	2
+application/x-sh	NA	5500
+application/zip	NA	188297
+application/x-bittorrent	NA	925
+image/png	"gnuplot Linux version 3.7 patchlevel 1"	3
+image/png	4.0	13
+image/png	1.0	820474
+image/png	NA	24339
+image/png	2.0	17
+image/png	"gnuplot version 3.7 patchlevel 3 on SunOS 5.7"	4
+image/png	"gnuplot Unix version 3.7 patchlevel 0"	3
+image/png	1.2	204
+image/png	1.1	104767
+application/x-director	Macintosh	10
+application/x-director	PC	12
+application/x-bibtex-text-file	NA	985
+application/x-berkeley-db	NA	38
+text/html	"Active Publishing version 1.0"	5
+text/html	3.2	3996834
+text/html	"contentXXL Content Management System version 2.54.2040.27641 / portamundi / info@portamundi.de"	1
+text/html	4.0	17236867
+text/html	"SiteCLERK: Hostway's Site Builder, version 1.5.0 (http://www.hostway.com), type2_layout1_blue design, type normal"	1
+text/html	"Web Page Maker (unregistered version)"	1
+text/html	"Blue CMS version 6.2 2007 Blue New Media Ltd. All rights reserved. For full details on licencing please contact enquiries@bluenewmedia.co.uk"	1
+text/html	"HTML by JM, auto database conversion program by Owl-Art Un-Ltd."	15
+text/html	"sailwave version 1.94 Build 27 2006"	4
+text/html	2.0	241214
+text/html	"Tapestry Application Framework, version 4.0"	25
+text/html	"version 3.3.1.0"	2
+text/html	4.01	71043729
+text/html	"Tapestry Application Framework, version 3.0.3"	12
+text/html	"Tapestry Application Framework, version 3.0-beta-2"	9
+text/html	"n/a"	2
+text/html	"Starlink SGML Kit, version 0.7-13"	3
+text/html	"Web500 version 3.6.0.26 LogBuy"	6
+text/html	1.0	575237
+text/html	"Tapestry Application Framework, version 2.2"	3
+text/html	NA	97961904
+text/html	"Mavada content|manager version 3.2.0 - www.mavada.com"	1
+text/html	1.1	1
+application/x-lharc	NA	93
+application/x-tika-msoffice	NA	86
+application/ogg	NA	14
+audio/midi	NA	43405
+image/x-icon	NA	121456
+image/vnd.adobe.photoshop	NA	1690
+image/x-xcf	NA	27
+image/jpeg	"C1 PRO version 3.5.2 for Windows."	7
+image/jpeg	"C1 LE version 1.3.1 for Windows."	3
+image/jpeg	"Adobe Photoshop Elements for Macintosh, version 2.0"	6
+image/jpeg	4.0	360
+image/jpeg	"C1 PRO version 1.3 for Windows."	2
+image/jpeg	"Adobe Photoshop Elements for Windows, version 2.0"	14
+image/jpeg	2.1	144177
+image/jpeg	2.0	26241
+image/jpeg	2.2	278201
+image/jpeg	4.01	178
+image/jpeg	"Software version 051"	1
+image/jpeg	1.01	16266552
+image/jpeg	1.0	4620
+image/jpeg	"Software version 715"	9
+image/jpeg	"C1 REBEL version 1.3 for Windows."	1
+image/jpeg	1.02	12900919
+image/jpeg	"Software version 013"	8
+image/jpeg	NA	1433923
+image/jpeg	1.00	1917361
+image/jpeg	"C1 PRO version 3.1.2 for Windows."	4
+image/jpeg	"C1 PRO version 3.5 for Windows."	1
+image/jpeg	"current camera firmware version"	10
+video/mp4	NA	1209
+image/x-xbitmap	X10	21
+image/x-xbitmap	NA	1
+application/vnd.symbian.install	NA	1379
+video/x-sgi-movie	NA	10
+application/java-archive	NA	5581
+application/postscript	3	4127
+application/postscript	3.0	5790
+application/postscript	1.0	58
+application/postscript	NA	1764
+application/postscript	2.1	23
+application/postscript	2.0	34284
+application/postscript	1.2	468
+image/x-portable-pixmap	NA	14
+audio/x-ms-wma	NA	32422
+application/x-lha	NA	1249
+application/vnd.openxmlformats-officedocument.wordprocessingml.document	NA	3
+application/vnd.oasis.opendocument.presentation	NA	57
+application/vnd.ms-tnef	NA	46
+video/x-ms-asf	NA	6700
+application/vnd.oasis.opendocument.presentation-template	NA	3
+image/x-pict	1.0	4
+image/x-pict	NA	1
+image/x-pict	2.0	110
+application/dwf	NA	934
+application/rdf+xml	4.01	6
+application/rdf+xml	1.0	50767
+application/rdf+xml	NA	103
+application/vnd.oasis.opendocument.spreadsheet	NA	68
+application/x-stuffit	NA	4371
+application/x-kpresenter	NA	5
+application/x-gzip	NA	51500
+application/vnd.oasis.opendocument.text	NA	129
+application/x-zoo	NA	4
+image/cgm	4.01	2203
+image/cgm	2	3
+image/cgm	1	3
+image/cgm	4.0	44
+image/cgm	NA	442
+image/cgm	2.0	1
+application/x-rar-compressed	2.9	5933
+application/x-rar-compressed	NA	301
+application/x-rar-compressed	2.0	762
+audio/basic	NA	3089
+video/mpeg	NA	24464
+application/x-tika-ooxml	NA	2
+application/vnd.rn-realmedia	NA	48350
+audio/vorbis	NA	771
+application/x-debian-package	NA	458
+application/x-empty	NA	13084
