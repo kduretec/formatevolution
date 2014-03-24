@@ -26,19 +26,36 @@ loadCollectionProfiles <- function(start, end, dataset, rules) {
 
 
 plotSeparate <- function(data, toPlot) {
+  #reg <- list()
+  Yplot <- seq(0,20,length=100)
+  reg <- data.frame(MIME=character(), PREDICTIONS=vector());
   for (i in 1:nrow(toPlot)) {
     row <- toPlot[i,]
+    mime <- row$MIME
     p <- merge(data,row)
     if (nrow(p)>0){
-      plot(p$YEAR, p$PERCENTAGE, xlab="year", ylab="percentage", main=paste(row$MIME,row$VERSION), pch=19)
-      plot(p$AGE, p$PERCENTAGE, xlab="age", ylab="percentage", main=paste(row$MIME,row$VERSION), pch=19)
+      plot(p$YEAR, p$PERCENTAGE, xlab="", ylab="", main=paste(row$MIME,row$VERSION), pch=19)
+      plot(p$AGE, p$PERCENTAGE, xlab="", ylab="", main=paste(row$MIME,row$VERSION), pch=19)
+      
+      r <- lm(PERCENTAGE~AGE + I(AGE^2) + I(AGE^3) + I(AGE^4) + I(AGE^5) + I(AGE^6), data=p)
+      reg <- rbind(reg, data.frame(MIME=mime,PREDICITONS=predict(r, newdata=data.frame(AGE=Yplot))))
+      #plot(p$YEAR, p$PERCENTAGE, main=paste(row$MIME,row$VERSION), pch=19, ann=FALSE)
+      #plot(p$AGE, p$PERCENTAGE, main=paste(row$MIME,row$VERSION), pch=19, ann=FALSE)
     }
   }
+  print(reg)
+  reg
 }
 
 
 
-
+plotReg <- function(reg) {
+  Yplot <- seq(0,20,length=100)
+  for (i in 1:length(reg)) {
+    #row <- reg[i,]
+    lines(Yplot,predict(reg[[i]], newdata=data.frame(AGE=Yplot)),col="blue")
+  }
+}
 
 clean <- function(releases,data) {
   inc <- rep(FALSE,nrow(data))

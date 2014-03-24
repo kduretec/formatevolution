@@ -26,12 +26,18 @@ results <- calcPerc(releases, data, aggregData)
 aggregPerc <- aggregate(PERCENTAGE~AGE, data=results, FUN=mean)
 
 #plot each version 
-plotSeparate(results, toProcess)
+regg <- plotSeparate(results, toProcess)
+
+#plot reggressions 
+#plotReg(regg)
 
 #plot everything together
-plot(results$AGE, results$PERCENTAGE, xlab="age", ylab="percentage", pch=19)
+plot(results$AGE, results$PERCENTAGE, xlab="", ylab="", pch=19)
+#plot(results$AGE, results$PERCENTAGE, pch=19, ann=FALSE)
 #plot average
-plot(aggregPerc$AGE,aggregPerc$PERCENTAGE, xlab="age", ylab="percentage", main="average", pch=19)
+plot(aggregPerc$AGE,aggregPerc$PERCENTAGE, xlab="", ylab="", main="average", pch=19, ann=FALSE)
+#plot(aggregPerc$AGE,aggregPerc$PERCENTAGE, pch=19, ann=FALSE)
+
 
 
 # when was the format version at peak after the release
